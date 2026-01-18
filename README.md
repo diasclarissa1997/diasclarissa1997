@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi, I'm Clarissa
+I have a Master's Degree in Chemistry, and I'm learning the fundamentals of programming in a Data Analysis course.
+## 
 <!--
 **diasclarissa1997/diasclarissa1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
